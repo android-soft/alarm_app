@@ -75,3 +75,4 @@
      "https://diseno-desarrollo-web-app-cantabria.github.io/alarm/m/дядя робот - песня про рыбу,муху и бабу.mp3",
      "https://diseno-desarrollo-web-app-cantabria.github.io/alarm/m/дядя робот - саморазвитие - корчи умное ебало.mp3"
  ]  
+}
