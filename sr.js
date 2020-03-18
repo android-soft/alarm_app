@@ -23,8 +23,7 @@
      "Radiole",
      "Loca Latino"
      ], 
-
- "uri" : [
+"uri" : [
         "https://17873.live.streamtheworld.com/CADENADIAL_SC",
         "http://19983.live.streamtheworld.com/LOS40_SC",
         "https://20863.live.streamtheworld.com/LOS40_CLASSIC_SC",
