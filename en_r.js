@@ -5,7 +5,7 @@
     "Classic FM",
     "BBC Radio 5",
     "Smooth Grooving FM",
-    "Kiss FM"
+    "Kiss FM",
     "Magic Radio"
      ], 
 "uri" : [
