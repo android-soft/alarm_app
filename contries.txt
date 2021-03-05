@@ -1,40 +1,40 @@
 {
    "data" : [{
    "name": "USA",
-   "image": "https://diseno-desarrollo-web-app-cantabria.github.io/radio_alarm/american.png"
+   "image": "https://android-soft.github.io/alarm_app/american.png"
    }, {
    "name": "China",
-   "image": "https://diseno-desarrollo-web-app-cantabria.github.io/radio_alarm/china.png"
+   "image": "https://android-soft.github.io/alarm_app/china.png"
    }, {
    "name": "France",
-   "image": "https://diseno-desarrollo-web-app-cantabria.github.io/radio_alarm/france.png"
+   "image": "https://android-soft.github.io/alarm_app/france.png"
    }, {
    "name": "Germany",
-   "image": "https://diseno-desarrollo-web-app-cantabria.github.io/radio_alarm/germani.png"
+   "image": "https://android-soft.github.io/alarm_app/germani.png"
    }, {
    "name": "Italy",
-   "image": "https://diseno-desarrollo-web-app-cantabria.github.io/radio_alarm/itali.png"
+   "image": "https://android-soft.github.io/alarm_app/itali.png"
    }, {
    "name": "Japon",
-   "image": "https://diseno-desarrollo-web-app-cantabria.github.io/radio_alarm/japon.png"
+   "image": "https://android-soft.github.io/alarm_app/japon.png"
    }, {
    "name": "Polska",
-   "image": "https://diseno-desarrollo-web-app-cantabria.github.io/radio_alarm/polska.png"
+   "image": "https://android-soft.github.io/alarm_app/polska.png"
    }, {
    "name": "Portugal",
-   "image": "https://diseno-desarrollo-web-app-cantabria.github.io/radio_alarm/portugal.png"
+   "image": "https://android-soft.github.io/alarm_app/portugal.png"
    }, {
    "name": "Spain",
-   "image": "https://diseno-desarrollo-web-app-cantabria.github.io/radio_alarm/spanich.png"
+   "image": "https://android-soft.github.io/alarm_app/spanich.png"
    }, {
    "name": "Ukraine",
-   "image": "https://diseno-desarrollo-web-app-cantabria.github.io/radio_alarm/ukranian.png"
+   "image": "https://android-soft.github.io/alarm_app/ukranian.png"
    }, {
    "name": "Belorus",
-   "image": "https://diseno-desarrollo-web-app-cantabria.github.io/radio_alarm/belorus.png"
+   "image": "https://android-soft.github.io/alarm_app/belorus.png"
    }, {
    "name": "Russia",
-   "image": "https://diseno-desarrollo-web-app-cantabria.github.io/radio_alarm/rus.png"
+   "image": "https://android-soft.github.io/alarm_app/rus.png"
    }
    ]
 }
