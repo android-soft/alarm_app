@@ -24,7 +24,7 @@
      "Loca Latino"
      ], 
 "uri" : [
-        "https://17873.live.streamtheworld.com/CADENADIAL_SC",
+        "https://21223.live.streamtheworld.com/CADENADIAL.mp3",
         "http://19983.live.streamtheworld.com/LOS40_SC",
         "https://20863.live.streamtheworld.com/LOS40_CLASSIC_SC",
         "http://flucast-b05-01.flumotion.com/cope/cadena100.mp3", 
