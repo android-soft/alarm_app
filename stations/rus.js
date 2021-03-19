@@ -37,7 +37,7 @@
         "http://chanson.hostingradio.ru:8041/chanson128.mp3",
         "http://ice912.echo.msk.ru:9120/stream",
         "https://dfm.hostingradio.ru/dfm96.aacp",
-        "http://ic3.101.ru:8000/v5_1",
+        "https://pub0301.101.ru:8443/stream/air/mp3/256/102",
         "http://air.radiorecord.ru:8102/sd90_320",
         "http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_192kbps",
         "http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps",
