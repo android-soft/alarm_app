@@ -8,19 +8,17 @@
      "Ondacero",
      "Ibiza",
      "RNE",
-     "Intereconomia",
      "Cadena Ser",
      "Ibiza Sonica",
      "Vinilo",
      "Cadena Cope",
-     "Maxima",
      "Hit",
      "Kiss Fm",
      "Gay Radio",
      "Fresca Radio",
      "Holiday Gim",
      "Radiole",
-     "Loca Latino"
+    
      ], 
 "uri" : [
         "https://21223.live.streamtheworld.com/CADENADIAL.mp3",
@@ -32,19 +30,15 @@
         "https://icecast-streaming.nice264.com/ondacero",
         "http://ibizaglobalradio.streaming-pro.com:8024/stream/1/",
         "https://crtve-ice-edge-2001-fra-eco-cdn.cast.addradio.de/crtve/rne1/main/mp3/high",
-        "http://212.85.46.144/siliconorg",
-        "https://19983.live.streamtheworld.com/CADENASER_SC",
+        "https://22533.live.streamtheworld.com/CADENASERAAC.aac",
         "http://s1.sonicabroadcast.com:7005/stream/1/",
         "http://server9.emitironline.com:10923/;",
         "http://flucast-b05-01.flumotion.com/cope/net1.mp3",
-        "https://20073.live.streamtheworld.com/MAXIMAFM_SC",
         "https://hitfm.kissfmradio.cires21.com/hitfm.mp3",
         "http://kissfm.kissfmradio.cires21.com/kissfm.mp3",
         "http://icepool.silvacast.com/GAYFM.mp3",
         "http://stream.produccionesdale.com:8899/altacalidad",
         "http://holidaygym.emitironline.com/",
-        "http://20723.live.streamtheworld.com/RADIOLE.mp3",
-        "http://audio-online.net:8012/live"
-     
+        "http://20723.live.streamtheworld.com/RADIOLE.mp3"
      ]         
                                           }
