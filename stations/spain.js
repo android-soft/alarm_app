@@ -17,7 +17,7 @@
      "Gay Radio",
      "Fresca Radio",
      "Holiday Gim",
-     "Radiole",
+     "Radiole"
     
      ], 
 "uri" : [
