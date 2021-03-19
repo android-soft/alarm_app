@@ -30,7 +30,7 @@
         "http://volgograd.sv-veter.ru:8008/nv_online",
         "https://rr-russkijrok.hostingradio.ru/russkijrok96.aacp",
         "https://rusradio.hostingradio.ru/rusradio96.aacp",
-        "https://ample-05.radiojar.com/hcrb063nn3quv",
+        "http://n09.radiojar.com/hcrb063nn3quv",
         "https://rusradio.hostingradio.ru/rusradio128.mp3",
         "http://89.179.72.53:8070/mini",
         "http://89.179.72.53:8070/live",
