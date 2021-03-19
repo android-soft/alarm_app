@@ -1,7 +1,6 @@
 {"name":   [
     "Cadena Dial",
     "Los 40 Principales",
-    "Los 40 Classic",
     "Cadena Cien",
     "Rock Fm",
     "Loca Fm",
@@ -25,8 +24,7 @@
      ], 
 "uri" : [
         "https://21223.live.streamtheworld.com/CADENADIAL.mp3",
-        "http://19983.live.streamtheworld.com/LOS40_SC",
-        "https://20863.live.streamtheworld.com/LOS40_CLASSIC_SC",
+        "https://20863.live.streamtheworld.com/LOS40AAC.aac",
         "http://flucast-b05-01.flumotion.com/cope/cadena100.mp3", 
         "http://flucast-b01-04.flumotion.com/cope/rockfm-low.mp3",
         "http://audio-online.net:2300/live",
