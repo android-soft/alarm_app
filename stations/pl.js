@@ -5,7 +5,8 @@
   "RMF FM",
   "TOK FM",
   "Trojka",
-  "Radio Fest"
+  "Radio Fest",
+  "Radio Zachod"
      ], 
 
  "uri" : [
@@ -15,6 +16,7 @@
    "https://rs6-krk2.rmfstream.pl/RMFFM48",
    "https://radiostream.pl/tuba10-1.mp3",
    "http://mp3.polskieradio.pl:8904/;.mp3",
-   "http://primary.moodyradiostream.org/radiofest"
+   "http://primary.moodyradiostream.org/radiofest",
+   "https://stream4.nadaje.com:10122/rz-20kbps.aac"
      ]         
 }
