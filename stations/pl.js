@@ -6,7 +6,8 @@
   "TOK FM",
   "Trojka",
   "Radio Fest",
-  "Radio Zachod"
+  "Radio Zachod",
+  "Eska rock"
      ], 
 
  "uri" : [
@@ -17,6 +18,7 @@
    "https://radiostream.pl/tuba10-1.mp3",
    "http://mp3.polskieradio.pl:8904/;.mp3",
    "http://primary.moodyradiostream.org/radiofest",
-   "https://stream4.nadaje.com:10122/rz-20kbps.aac"
+   "https://stream4.nadaje.com:10122/rz-20kbps.aac",
+   "https://uk2-play.adtonos.com/8104/eska-rock"
      ]         
 }
