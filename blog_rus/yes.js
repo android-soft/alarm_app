@@ -1,1 +1,1 @@
-["yes asdfasdfasdfasdfasdfasdf"]
+["yes"]
