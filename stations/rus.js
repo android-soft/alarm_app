@@ -1,4 +1,5 @@
 {"name":   [
+    "Ibiza Radio",
     "Deep House",
     "Дискотека ссср",
     "Новая Волна",
@@ -25,6 +26,7 @@
      ], 
 
  "uri" : [
+        "https://listenssl.ibizaglobalradio.com:8024/stream",
         "https://pub0101.101.ru:8000/stream/trust/mp3/128/173",
         "https://pub0101.101.ru:8000/stream/pro/aac/64/144",
         "http://volgograd.sv-veter.ru:8008/nv_online",
