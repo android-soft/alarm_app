@@ -24,7 +24,6 @@
     "Новое Радио",
     "Радио Маруся"
      ], 
-
  "uri" : [
         "https://listenssl.ibizaglobalradio.com:8024/stream",
         "https://pub0101.101.ru:8000/stream/trust/mp3/128/173",
