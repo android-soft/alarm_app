@@ -1,1 +1,1 @@
-["yes - only yes"]
+["yes"]
